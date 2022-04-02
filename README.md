@@ -29,7 +29,8 @@ An introduction to programming using a language called Python. Learn how to read
 
 ## About the instructor
 David J. Malan <br>
-<h5>Gordon McKay Professor of the Practice of Computer Science at Harvard University</h5>
+Gordon McKay Professor of the Practice of Computer Science at Harvard University <br>
+malan@harvard.edu 
 <br>
 <br>
 
